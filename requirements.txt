@@ -4,3 +4,4 @@ numpy
 glob2
 pandas
 more-itertools
+opencv-python
