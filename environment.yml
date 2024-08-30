@@ -2,6 +2,7 @@ name: myenv
 channels:
   - conda-forge
   - defaults
+  - pkgs/main
 dependencies:
   - tensorflow
   - scikit-learn
