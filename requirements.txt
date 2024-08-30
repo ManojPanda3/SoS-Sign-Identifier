@@ -1,6 +1,6 @@
 tensorflow
-sklearn
+scikit-learn
 numpy
-glob
+glob2
 pandas
-itertools
+more-itertools
