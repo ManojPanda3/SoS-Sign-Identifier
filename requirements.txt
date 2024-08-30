@@ -1,5 +1,4 @@
-
-tensorflow.python
+tensorflow
 sklearn
 numpy
 glob
