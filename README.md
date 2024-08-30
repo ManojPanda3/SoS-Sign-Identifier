@@ -1,4 +1,5 @@
-# Ai to detect Sos sign on camera
+# Ai  Sos sign Detector
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ManojPanda3/SoS-Sign-Identifier/main)
 
-A bunch of ai combined with a custome trained ai on MobileNetV2 to identify the sos sign on cameras :) 
+A Lightweight ai which will implement on security cameras and triger if anyone ask for help through sos sign. 
