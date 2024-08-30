@@ -1,0 +1,13 @@
+name: myenv
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - tensorflow
+  - scikit-learn
+  - numpy
+  - glob2
+  - pandas
+  - more-itertools
+  - opencv-python
+  - libgl1
