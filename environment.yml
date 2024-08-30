@@ -2,7 +2,6 @@ name: myenv
 channels:
   - conda-forge
   - defaults
-  - pkgs/main
 dependencies:
   - tensorflow
   - scikit-learn
@@ -10,5 +9,5 @@ dependencies:
   - glob2
   - pandas
   - more-itertools
-  - opencv-python
+  - opencv
   - libgl1
